@@ -37,7 +37,7 @@ Start:  S2 3 in 40           4 back FH
 End:    S2 0 in 45           8 back FH
 Midset: S2 2.5 out 45        6.0 back FH
 ```
-You can try it at the following link: https://replit.com/@jRaffill/midset-calculator, although repl.it unfortunately doesn't always run very well. 
+You can try it at the following link: https://onlinegdb.com/NBZEhywLt
 
 Open Source Dependencies:
 ---------
